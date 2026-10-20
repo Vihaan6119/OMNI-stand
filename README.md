@@ -21,3 +21,5 @@ I wanted a sturdy, clean-looking desk stand for my headphones that also doubled 
 The stand uses a high-end dual-tone aesthetic inspired by natural wood and clean desktop gear:
 * **Dark Walnut Wood Accents (`#442809`):** Used for the base tray rim/floor and the top U-cradle.
 * **Matte Black Structure (`#202020`):** Used for the main vertical column.
+
+<img width="1404" height="815" alt="image" src="https://github.com/user-attachments/assets/fd4888d6-dd83-46fc-91cb-9b87c685be42" />
