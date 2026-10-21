@@ -28,6 +28,6 @@ The stand uses a high-end dual-tone aesthetic inspired by natural wood and clean
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| CAD 3D model | The 3D printed model of the project | 1 | $15 \vert{}$ 15 | [Printing Legion](https://printlegion.hackclub.com/) |
+| CAD 3D model | The 3D printed model of the project | 1 | $15 | $15 | [Printing Legion](https://printlegion.hackclub.com/) |
 | **Tax & shipping** | — | — | — | **$7** | — |
 | **Total** | — | — | — | **$22.0** | — |
