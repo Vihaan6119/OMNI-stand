@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 13.5h | 4 |
+| Week 2 | Tier 1 | 11.5h | 4 |
 
 ## Contents
 
@@ -94,7 +94,7 @@ Total time spent: 2h
 
 ### 2026-10-18 – # October 18: Perfecting the U-shaped cradle, color grading, & exporting!!
 
-**5h**
+**3h**
 
 # October 18: Perfecting the U-shaped cradle, color grading, & exporting!!
 
@@ -122,7 +122,13 @@ Here is how the final render came out on screen before exporting to .step:
 
 Building this completely step-by-step—from a complex charger dock idea down to this minimalist valet tray and headphone stand hybrid—taught me a ton about Onshape workflows, extrusions, and managing multi-part assemblies.
 
-**Total time spent: 5h**
+**Total time spent: 3h**
+
+--------------------------
+
+**IMPORTANT NOTE**
+
+I have increase the number of hours because this is my first 3D model. So i had to go through many tutorial and all the different documents and fiddling around with the tools to end-up getting this result.  i have neglected so many  ideas and so many things from this project because this was straight up new for me, so i made several small things, structures, and all in the same document as the one where i was doing the OMNI stand project.
 
 ### 2026-10-18 – # October 18: Slicing setup, export validation, & getting print-ready!!
 
