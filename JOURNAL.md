@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.5h | 4 |
+| Week 2 | Tier 1 | 9.5h | 4 |
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 ### 2026-10-16 – # October 12: Base Block & Initial Layout
 
-**5.5h**
+**3.5h**
 
 # October 12: Base Block & Initial Layout
 
@@ -32,7 +32,8 @@ Started the OMNI Stand project in Onshape with the goal of designing a compact 1
 For this session, I created a center rectangle on the top plane, dimensioned it to 120mm x 120mm, and extruded it upward by 30mm to form the main solid base block. To give it a sleek, modern, and print-safe finish, I applied a 12mm fillet to all four vertical outer corners.
 
 ![Screenshot 2026-10-14 233027](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MqfXtqzyoV3kC5NbjDzdPoc1zza7pyWb/82b6fccf5e8ceb9c3f9b4145a3be3929c53b1cb37d677820d938c886d8db9cd8.png)
-**Total time spent: 1.5 hours**
+
+**Total time spent: 1 hours**
 
 ---
 
@@ -44,7 +45,7 @@ Using the Extrude-Remove feature, I cut a 7mm deep pocket so the puck sits flush
 
 ![Screenshot 2026-10-14 233141](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MqfXtqzyoV3kC5NbjDzdPoc1zza7pyWb/f0cb8360bdc3394953b9f2922b3c3c0c6a94ed616fbd38fa4d6324f80c7e8b33.png)
 
-**Total time spent: 2 hours**
+**Total time spent: 0.5 hours**
 
 ---
 
