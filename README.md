@@ -10,17 +10,17 @@ I wanted a sturdy, clean-looking desk stand for my headphones that also doubled 
 
 ## Specs & Dimensions
 
-* **Base Footprint:** 220 x 220 mm (heavy and super stable)
-* **Valet Tray:** Shallow 8 mm depth with a 12 mm clean border wall
-* **Total Height:** 250 mm (gives plenty of clearance for over-ear headphones)
-* **Arm Width:** 50 mm thick vertical pillar
-* **Top Cradle:** Custom U-shaped trough to prevent headbands from sliding or creasing
+- **Base Footprint:** 220 x 220 mm (heavy and super stable)
+- **Valet Tray:** Shallow 8 mm depth with a 12 mm clean border wall
+- **Total Height:** 250 mm (gives plenty of clearance for over-ear headphones)
+- **Arm Width:** 50 mm thick vertical pillar
+- **Top Cradle:** Custom U-shaped trough to prevent headbands from sliding or creasing
 
 ## Aesthetic & Color Scheme
 
 The stand uses a high-end dual-tone aesthetic inspired by natural wood and clean desktop gear:
-* **Dark Walnut Wood Accents (`#442809`):** Used for the base tray rim/floor and the top U-cradle.
-* **Matte Black Structure (`#202020`):** Used for the main vertical column.
+- **Dark Walnut Wood Accents (`#442809`):** Used for the base tray rim/floor and the top U-cradle.
+- **Matte Black Structure (`#202020`):** Used for the main vertical column.
 
 <img width="1404" height="815" alt="image" src="https://github.com/user-attachments/assets/fd4888d6-dd83-46fc-91cb-9b87c685be42" />
 
@@ -28,7 +28,6 @@ The stand uses a high-end dual-tone aesthetic inspired by natural wood and clean
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-CAD 3D model | The 3D printed model of the project | 1 | $ 15 | $ 15 | [Printing Legion](https://printlegion.hackclub.com/) 
-
+| CAD 3D model | The 3D printed model of the project | 1 | $15 \vert{}$ 15 | [Printing Legion](https://printlegion.hackclub.com/) |
 | **Tax & shipping** | — | — | — | **$7** | — |
 | **Total** | — | — | — | **$22.0** | — |
