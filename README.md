@@ -23,3 +23,12 @@ The stand uses a high-end dual-tone aesthetic inspired by natural wood and clean
 * **Matte Black Structure (`#202020`):** Used for the main vertical column.
 
 <img width="1404" height="815" alt="image" src="https://github.com/user-attachments/assets/fd4888d6-dd83-46fc-91cb-9b87c685be42" />
+
+# BOM
+
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+CAD 3D model | The 3D printed model of the project | 1 | $ 15 | $ 15 | [Printing Legion](https://printlegion.hackclub.com/) 
+
+| **Tax & shipping** | — | — | — | **$7** | — |
+| **Total** | — | — | — | **$22.0** | — |
