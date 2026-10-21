@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.5h | 4 |
+| Week 2 | Tier 1 | 8h | 4 |
 
 ## Contents
 
@@ -71,7 +71,7 @@ I initially tested an extrusion height of 180mm–190mm, but after checking the 
 
 ### 2026-10-18 – ![Screenshot 2026-10-18 123148](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MqfXtqzyoV3kC5NbjDzdPoc1zza7pyWb/01763cf5287fc8b27164975a5c496eb77e84fffbedccb9e7e4e81d400f7fec04.png)
 
-**2h**
+**0.5h**
 
 ![Screenshot 2026-10-18 123148](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MqfXtqzyoV3kC5NbjDzdPoc1zza7pyWb/01763cf5287fc8b27164975a5c496eb77e84fffbedccb9e7e4e81d400f7fec04.png)
 
@@ -89,7 +89,7 @@ I realized I needed to use the Extrude tool's Remove operation rather than creat
 
 By sketching an inward Offset from the outer perimeter of the base, I locked in a uniform, premium border wall all the way around.
 
-Total time spent: 2h
+Total time spent: 0.5h
 
 ![Screenshot 2026-10-18 123159](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/MqfXtqzyoV3kC5NbjDzdPoc1zza7pyWb/118d285eba46ab0c6540f815c6445346236d1fe2c13828280f03c841ae95cc07.png)
 
